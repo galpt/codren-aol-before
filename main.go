@@ -8353,7 +8353,7 @@ func xvid(s *discordgo.Session, m *discordgo.MessageCreate) {
 
 				if strings.Contains(strings.ToLower(xvsplitText[1]), "help") {
 
-					s.ChannelMessageSendReply(m.ChannelID, "**XV**\nAn accelerator for `xvideos.com` done right.\n\n**How to Use**\n`.xv help` — show the help message;\n`.xv deldata` — delete cached data;\n`.xv <video URL>` — reconstruct video & cache it to boost performance;\n\n**Example**\n`.xv https://www.xvideos.com/video54147993/sexy_solo_babe_masturbating` — <@!854071193833701416> will reconstruct the video for you;\n", m.Reference())
+					s.ChannelMessageSendReply(m.ChannelID, "**XV**\nAn accelerator based on `yt-dlp` done right.\n\n**How to Use**\n`.xv help` — show the help message;\n`.xv deldata` — delete cached data;\n`.xv <video URL>` — reconstruct video & cache it to boost performance;\n\n**Example**\n`.xv https://youtu.be/vcGbefQBvJ4` — <@!854071193833701416> will reconstruct the video for you;\n", m.Reference())
 
 				} else if strings.Contains(strings.ToLower(xvsplitText[1]), "deldata") {
 
