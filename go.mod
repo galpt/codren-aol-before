@@ -37,8 +37,8 @@ require (
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/marten-seemann/qpack v0.2.1 // indirect
 	github.com/marten-seemann/qtls-go1-16 v0.1.5 // indirect
-	github.com/marten-seemann/qtls-go1-17 v0.1.1 // indirect
-	github.com/marten-seemann/qtls-go1-18 v0.1.1 // indirect
+	github.com/marten-seemann/qtls-go1-17 v0.1.2 // indirect
+	github.com/marten-seemann/qtls-go1-18 v0.1.2 // indirect
 	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
@@ -64,7 +64,7 @@ require (
 
 require (
 	github.com/line/line-bot-sdk-go/v7 v7.16.0
-	github.com/lucas-clemente/quic-go v0.27.0
+	github.com/lucas-clemente/quic-go v0.27.2
 	github.com/sashabaranov/go-gpt3 v0.0.0-20220314221030-260ef874de6c
 	github.com/servusdei2018/shards v1.2.6
 	github.com/showwin/speedtest-go v1.1.5
