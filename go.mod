@@ -9,7 +9,7 @@ require (
 	github.com/gocolly/colly v1.2.0
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/rivo/uniseg v0.2.0
-	github.com/spf13/afero v1.9.0
+	github.com/spf13/afero v1.9.2
 	github.com/tidwall/gjson v1.14.1
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
 	mvdan.cc/xurls/v2 v2.4.0
